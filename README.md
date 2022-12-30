@@ -5,5 +5,5 @@ Members who made the most contributions to KiCad
 Kush Nayak (Software) - Created hat
 Gaurav Gupta (MCU) - Optocopuler, AHRS Circuit
 Allen Ding (MCU) - Optocopuler, AHRS Circuit
-Eaton Huang (VP of Electrical)  - ESC Daughterboard inspired by our friends in Singapore :)
-Sean Kadkhodayan - ESC Daughterboard plus hundreds of hours in KiCad -> also as a side note: he taught me (Hunter) some of the basics in KiCad
+Eaton Huang (VP of Electrical)  - ESC Daughterboard inspired by our friends in Singapore, motherboard, and sensor stack
+Sean Kadkhodayan - ESC Daughterboard plus hundreds of hours in KiCad -> also as a side note: he taught me (Hunter) some of the basics in KiCad, also worked on the motherboard and worked greatly on the sensor stack.
